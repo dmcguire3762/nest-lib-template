@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "nest-lib-template",
   "version": "1.0.0",
   "description": "Template for creating NestJS libraries",
